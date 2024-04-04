@@ -4,5 +4,6 @@ class Hello
 	{
 	System.out.println("Hello there!!!");
 	System.out.println("Second line added");
+	System.out.println("Third line added");
 	}
 }
